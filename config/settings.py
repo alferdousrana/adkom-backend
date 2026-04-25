@@ -27,7 +27,11 @@ INSTALLED_APPS = [
 
     'rest_framework',
 
+    # Local apps
+    'apps.core',
     'apps.notification',
+
+    
 ]
 
 MIDDLEWARE = [
