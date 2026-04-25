@@ -32,6 +32,7 @@ INSTALLED_APPS = [
     'apps.notification',
     'apps.product',
     'apps.accounts',
+    'apps.cart',
 
 
 ]
