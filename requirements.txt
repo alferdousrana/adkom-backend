@@ -7,6 +7,10 @@
 asgiref==3.11.1
     # via django
 django==6.0.4
+    # via
+    #   -r requirements.in
+    #   djangorestframework
+djangorestframework==3.16.1
     # via -r requirements.in
 pillow==11.3.0
     # via -r requirements.in

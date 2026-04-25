@@ -20,6 +20,10 @@ colorama==0.4.6
     #   click
     #   pytest
 django==6.0.4
+    # via
+    #   -r requirements.in
+    #   djangorestframework
+djangorestframework==3.16.1
     # via -r requirements.in
 iniconfig==2.3.0
     # via pytest
